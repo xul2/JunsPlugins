@@ -5,7 +5,6 @@
             "name": "lua1",
             "role": "owner"
         }
-        // Add more users here
     ],
     "settings": {
         "version": "1.0.0",
